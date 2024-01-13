@@ -1,11 +1,14 @@
 
-# live link [Hosted link](https://uniweather.netlify.app)
+# Hosted link 
+[live](https://uniweather.netlify.app)
 
 # For Start
-
+# 1
+npm install
+# 2
 npm run dev
 
-
+now you can search your city name on the search bar and then click the search button and you find you city name temp and wind details
 
 
 
